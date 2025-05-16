@@ -1,2 +1,2 @@
-# Perception-
-AI Powered Seeing Assistant
+# Perception - Your AI Powered Seeing Assistant
+
