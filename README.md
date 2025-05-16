@@ -39,8 +39,8 @@ cd ..<br>
 d. Run the Flask server<br>
 
 cd backend<br>
-python app.py<br>
-🔹 3. Frontend Setup (React)<br>
+python app.py<br> <br>
+# 3. Frontend Setup (React)<br>
 a. Create React App (if not already)<br>
 If you're just starting:<br>
 
@@ -51,9 +51,7 @@ b. Start the React development server<br>
 b
 npm install<br>
 npm start<br>
-This runs the React app at http://localhost:3000.<br>
-
-4. Run the application<br>
+This runs the React app at http://localhost:3000.<br>4. Run the application<br>
  python app.py<br>
  
 Your application should now be running at http://127.0.0.1:5000/<br>
