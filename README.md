@@ -1,5 +1,6 @@
 # Perception - Your AI Powered Seeing Assistant
 
+(only IF my professor didn't hate me..I think I could have gotten a better grade for this. 😪)
 A lightweight object detection web application using YOLOv5, Flask, and OpenCV. This project features a React frontend interface integrated with a robust Python backend for real-time object detection using webcam or uploaded images, specifically designed to assist visually impaired individuals.
 
 ✨ Features<br>
